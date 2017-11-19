@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI \"Amazon\" style store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanOrlovsky/bamazon.git"
+  },
+  "author": "Dan Orlovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanOrlovsky/bamazon/issues"
+  },
+  "homepage": "https://github.com/DanOrlovsky/bamazon#readme",
+  "dependencies": {
+    "clear": "0.0.1",
+    "cli-table": "^0.3.1",
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
+}
